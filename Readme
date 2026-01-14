@@ -5,7 +5,7 @@ faces_detection_mod_DLIB.py es el programa modificado que usa DLIB
 faces_detection_mod_DNN.py es el programa modificado que usa DNN
 faces_detection_mod_CNN.py es el programa modificado que usa una red neuronal convolucional
 
-faces es la carpeta con todas las imagenes usadas para este trabajo
+faces es la carpeta con todas las imagenes usadas para este trabajo; las carpetas dentro son los resultados de cada uno de los 5 metodos usados (haar, mtcnn, dlib, dnn, cnn)
 
 VC_projecto_Luis_Selis_v05.pdf es el reporte final
 VC_projecto_Luis_Selis_v05.pptx es el ppt para la exposicion

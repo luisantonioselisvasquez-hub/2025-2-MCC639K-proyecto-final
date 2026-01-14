@@ -1,0 +1,11 @@
+faces_detection_original.py es el programa original sin modificar que nos dieron
+faces_detection_mod_Haar.py es el programa modificado que usa Haar
+faces_detection_mod_MTCNN.py es el programa modificado que usa MTCNN
+faces_detection_mod_DLIB.py es el programa modificado que usa DLIB
+faces_detection_mod_DNN.py es el programa modificado que usa DNN
+faces_detection_mod_CNN.py es el programa modificado que usa una red neuronal convolucional
+
+faces es la carpeta con todas las imagenes usadas para este trabajo
+
+VC_projecto_Luis_Selis_v05.pdf es el reporte final
+VC_projecto_Luis_Selis_v05.pptx es el ppt para la exposicion
